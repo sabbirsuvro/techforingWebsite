@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/techforingWebsite/static/css/main.4de0fa12.css",
+    "main.js": "/techforingWebsite/static/js/main.042fdb3f.js",
+    "static/js/787.d3befce1.chunk.js": "/techforingWebsite/static/js/787.d3befce1.chunk.js",
+    "static/media/recruitment.png": "/techforingWebsite/static/media/recruitment.cbc79ae4d6625cc8d3a1.png",
+    "static/media/BANGLADESH.jpg": "/techforingWebsite/static/media/BANGLADESH.04235da7d46c438ca229.jpg",
+    "static/media/gallery.png": "/techforingWebsite/static/media/gallery.02ce40b015a4a3c0e4ac.png",
+    "static/media/TURKEY.jpg": "/techforingWebsite/static/media/TURKEY.beacaf468234e8850cb5.jpg",
+    "static/media/recruitment2.png": "/techforingWebsite/static/media/recruitment2.1a9fc2e1ea2b5e304e7e.png",
+    "static/media/backgroud.jpg": "/techforingWebsite/static/media/backgroud.a95c14ce079aa3e252d4.jpg",
+    "static/media/USA.jpg": "/techforingWebsite/static/media/USA.76428481eb7b1631d968.jpg",
+    "static/media/UK.jpg": "/techforingWebsite/static/media/UK.0745f1fa8c78f1fc14c2.jpg",
+    "static/media/logo.png": "/techforingWebsite/static/media/logo.736e953d98c765398bd7.png",
+    "index.html": "/techforingWebsite/index.html",
+    "main.4de0fa12.css.map": "/techforingWebsite/static/css/main.4de0fa12.css.map",
+    "main.042fdb3f.js.map": "/techforingWebsite/static/js/main.042fdb3f.js.map",
+    "787.d3befce1.chunk.js.map": "/techforingWebsite/static/js/787.d3befce1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4de0fa12.css",
+    "static/js/main.042fdb3f.js"
+  ]
+}
